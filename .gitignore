@@ -9,14 +9,14 @@
 /app/config/parameters.ini
 
 /bin
-/web/bundles
-/web/css
-/web/fonts
-/web/images
-/web/js
-/web/config.php
-/web/uploads
-/web/media
+/public/bundles
+/public/css
+/public/fonts
+/public/images
+/public/js
+/public/config.php
+/public/uploads
+/public/media
 /vendor
 
 # PHPUnit
