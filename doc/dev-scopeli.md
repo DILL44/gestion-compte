@@ -2,9 +2,15 @@
 
 ## Prérequis
 ## Les dépôts
+si vous avez des accès aux dépôts
 ```
 git clone git@gitlab.com:DILL44/dev-docker-symfony.git
 git clone git@github.com:DILL44/gestion-compte.git
+```
+si vous avez n'avez pas d'accès aux dépôts
+```
+git clone https://gitlab.com/DILL44/dev-docker-symfony.git
+git clone https://github.com/DILL44/gestion-compte.git
 ```
 ## Les container dockers
 
